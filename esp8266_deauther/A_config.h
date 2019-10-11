@@ -47,7 +47,7 @@
 //   NEO_RGBW    Pixels are wired for RGBW bitstream (NeoPixel RGBW products)
 
 // ===================== DISPLAY CONFIG ==================== //
-#define USE_DISPLAY false // default display setting
+#define USE_DISPLAY true // default display setting
 
 /* = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
     Adjust the pins to match your setup
